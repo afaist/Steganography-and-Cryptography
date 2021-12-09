@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-classes-kotlin.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-reports-tests.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-test-results.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task-build-tmp.main" target="8" />
+      <module name="Steganography_and_Cryptography.Steganography_and_Cryptography-task.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Calculate_volume.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Concatenate_3_strings_with_separator.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Gratuity.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Polynomial.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Print_Username.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Summation.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Default_arguments-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Area_of_a_circle.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Celsius_to_Fahrenheit.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Difference_between_two_doubles.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Distance.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Find_X.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Liquid_pressure.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Floating-point_types-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_a_red_square.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_four_circles.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_three_strings.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Drawing_two_lines.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Image_libraries-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Object_declarations-Blocks_in_a_box.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Object_declarations-Board_game_basics__Game.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Object_declarations-Cell.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Object_declarations-Library.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Object_declarations-Manager.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Object_declarations-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Relational_operators-Boys_in_the_sport_class.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Relational_operators-Check_the_sum.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Relational_operators-Check_the_value.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Relational_operators-Check_the_value__1_.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Relational_operators-Groundhogs_at_the_party.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Relational_operators-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Values_and_variables-Fix_declarations.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Values_and_variables-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Values_and_variables-val_or_var_.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-Collatz_conjecture.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-Squares_of_natural_numbers.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-The_largest_element.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-The_length_of_the_sequence.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-The_sequence_1_2_2_3_3_3_.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-The_sum_of_elements.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-While_loops-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Writing_files-Closed_case.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Writing_files-Duplication.main" target="8" />
+      <module name="Steganography_and_Cryptography.Topics-Writing_files-Theory.main" target="8" />
+      <module name="Steganography_and_Cryptography.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
